@@ -12,18 +12,6 @@ The workspace relies on structured context ingestion and systemic prompt evaluat
 2. **Evaluation Framework (`system_prompt.md`):** Systemic instructions guiding Claude to adopt the persona of a French academic admissions committee reviewer.
 3. **Candidate Input:** Draft motivation letters and academic history logs submitted in plain text.
 
-
-
-[Candidate Motivation Letter] + [m2_data_science_programs.json]
-│
-▼
-[Claude Custom Workspace Environment]
-│
-▼
-[Structural Scorecard & Alignment Analysis]
-
-
-
 ## Setup & Usage Instructions
 
 ### Prerequisites
