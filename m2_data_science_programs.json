@@ -1,0 +1,70 @@
+{
+  "target_degree": "Master 2 Data Science & Artificial Intelligence (France)",
+  "programs": [
+    {
+      "university": "Université Paris-Saclay",
+      "program_title": "M2 Data Sciences",
+      "key_modules": [
+        "Advanced Machine Learning & Deep Learning",
+        "High-Dimensional Statistics & Optimization",
+        "Distributed Computing (Spark/Hadoop)",
+        "Reinforcement Learning",
+        "Natural Language Processing (NLP)"
+      ],
+      "prerequisites": [
+        "Strong foundation in Linear Algebra and Probability",
+        "Proficiency in Python (NumPy, PyTorch/TensorFlow, Scikit-Learn)",
+        "Solid background in Algorithmic Optimization"
+      ],
+      "recommended_keywords": [
+        "convex optimization",
+        "statistical inference",
+        "scalable algorithms",
+        "neural architectures"
+      ]
+    },
+    {
+      "university": "Institut Polytechnique de Paris (IP Paris)",
+      "program_title": "M2 Data Science & AI",
+      "key_modules": [
+        "Statistical Machine Learning",
+        "Deep Generative Models",
+        "Big Data Analytics & Systems",
+        "Computer Vision & Image Processing",
+        "Ethics & Explainable AI (XAI)"
+      ],
+      "prerequisites": [
+        "Engineering degree level in Applied Mathematics or Computer Science",
+        "Data manipulation and SQL/NoSQL databases",
+        "Software engineering fundamentals"
+      ],
+      "recommended_keywords": [
+        "generative modeling",
+        "model interpretability",
+        "distributed architectures",
+        "empirical validation"
+      ]
+    },
+    {
+      "university": "Université Grenoble Alpes",
+      "program_title": "M2 Master in Computer Science - Data Science Track",
+      "key_modules": [
+        "Machine Learning for Complex Data",
+        "Data Mining & Knowledge Discovery",
+        "Bayesian Statistics",
+        "Cloud Computing & Edge AI"
+      ],
+      "prerequisites": [
+        "Object-oriented programming and Python/R expertise",
+        "Multivariate calculus and linear algebra",
+        "Data structures and database management"
+      ],
+      "recommended_keywords": [
+        "pattern recognition",
+        "probabilistic modeling",
+        "data pipelines",
+        "edge deployment"
+      ]
+    }
+  ]
+}
